@@ -5,4 +5,7 @@
 # @Site    : 
 # @File    : main.py
 # @email   : kiddyflash@163.com
-
+def main():
+    print('123')
+if __name__ == '__main__':
+    main()
