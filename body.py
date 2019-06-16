@@ -5,3 +5,9 @@
 # @Site    : 
 # @File    : body.py
 # @email   : kiddyflash@163.com
+
+
+
+def get_body():
+    print('body')
+    return

@@ -1,3 +1,3 @@
 # _*_coding:utf-8_*_
-def getBodyValue():
+def get_value():
     return
